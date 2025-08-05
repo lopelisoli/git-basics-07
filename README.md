@@ -84,6 +84,9 @@ Uma vez configurado o Git, você pode conectar seu repositório local ao GitHub:
    git push -u origin main
    ```
 
+### O que é SSH?
+O SSH (Secure Shell) é um protocolo de rede projetado para permitir comunicação segura entre dispositivos em uma rede insegura. Ele é amplamente utilizado para acessar remotamente servidores e dispositivos, garantindo a proteção de dados transmitidos por meio de criptografia. Com SSH, é possível executar comandos em máquinas remotas, transferir arquivos e realizar tarefas administrativas com segurança. Para se conectar via SSH, geralmente utiliza-se um par de chaves criptográficas ou autenticação por senha. Sua confiabilidade e segurança fazem do SSH uma ferramenta essencial para administradores de sistemas e desenvolvedores que gerenciam ambientes remotos.
+
 ## Recursos úteis
 - [Documentação do Git](https://git-scm.com/doc)
 - [Documentação do GitHub](https://docs.github.com/)
